@@ -1,7 +1,10 @@
-prolog
-======
+# Preternatural - Prolog Libraries 
 
-Pure Prolog libraries
+This is a set of Prolog libraries based on the great work of Samer.  
+For the original work, see:
+ [https://github.com/samer--/prolog]
+
+Pure Prolog libraries included:
 
        callgraph   - Predicate dependency graph generation
        cclab       - Playing with delimited continuations
